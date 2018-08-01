@@ -1,0 +1,78 @@
+.row{   
+
+    background-color:black;
+    color:white;
+    font-size:20px;
+}
+.headshot{
+    width:20%;
+   
+}
+.mid{
+    background-color:white;
+    color:black;
+    align-items:center;
+    font-size:50px;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+.aboutme{
+    border:1px solid black;   
+}
+
+.row mid {
+    display: flex;
+    justify-content: center;
+}
+
+.stress {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+    width:200px;
+    height:100px;
+}
+.hello {
+    display:flex;
+    justify-content: flex-end;
+}
+#hi {
+    background-color:#b3cde0;
+}
+#hello{
+ display: flex;
+justify-content:center;
+width:500px;
+height:200px;
+}
+#space {
+    font-family: Questa Grande;
+}
+
+#hu {
+    display:flex;
+    justify-content: center;
+}
+#oh{
+    color:blue;
+}
+#coding {
+     justify-content:center;
+    display: flex;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:800px;
+    height:500px;
+  
+}
+#hard{
+    justify-content:center;
+    display: flex;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:500px;
+    height: 500px
+}
